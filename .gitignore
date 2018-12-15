@@ -4,11 +4,13 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-Assets/Gaia/3rd Party Samplers
-Assets/Gaia/Stamps
-Assets/ignore
+Assets/Gaia
+Assets/AmplifyShaderEditor
+Assets/FogVolume
 Assets/Scenes/Main
 Assets/Scenes/Main_2
+
+Assets/ignore
 
 # Visual Studio cache directory
 .vs/
@@ -42,3 +44,4 @@ sysinfo.txt
 *.unitypackage
 *.meta
 /Assets/_TerrainAutoUpgrade
+
